@@ -37,6 +37,7 @@ You can either download the zip or clone it with git then install the required l
 pip install requests
 pip install selenium
 pip install beautifulsoup4
+pip install urllib3
 ```
 Remember to install the chromedriver and put it in the folder where you are running Main.py: http://chromedriver.chromium.org/downloads
 
